@@ -1,0 +1,2 @@
+“您的银行账户出现异常，点击链接核对并重置密码：http://www.bank-security.com”@1
+“恭喜您！您已获得2000元购物券，点击链接领取并验证您的账户：http://www.rebate-claim.com”@1
